@@ -1,4 +1,4 @@
-# msa
+# MSA
 
 A Minimal Server App.
 
